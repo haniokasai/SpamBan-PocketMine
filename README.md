@@ -1,0 +1,2 @@
+# SpamBan-PocketMine
+SpamBan
